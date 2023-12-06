@@ -1,0 +1,6 @@
+{"time":"2023-12-04 16:20:07","ip":"127.0.0.1","method":"POST","status_code":200,"path":"/v1/users/signup","query":null,"body":null,"response":{"trace_id":"middleware-001","msg":"router not found"}}
+{"time":"2023-12-04 16:21:01","ip":"127.0.0.1","method":"GET","status_code":200,"path":"/v1","query":null,"body":null,"response":{"name":"JELLY-SHOP","version":"v0.1.0"}}
+{"time":"2023-12-04 16:25:25","ip":"127.0.0.1","method":"POST","status_code":200,"path":"/v1/users/signup","query":null,"body":null,"response":{"trace_id":"middleware-001","msg":"router not found"}}
+{"time":"2023-12-04 16:31:45","ip":"127.0.0.1","method":"POST","status_code":200,"path":"/v1/users/signup","query":null,"body":null,"response":{"user":{"id":"U000003","email":"jelly@asfasf.com","username":"jellytod","role_id":1},"Token":null}}
+{"time":"2023-12-04 16:33:26","ip":"127.0.0.1","method":"POST","status_code":200,"path":"/v1/users/signup","query":null,"body":null,"response":{"trace_id":"users-001","msg":"username has been used"}}
+{"time":"2023-12-04 16:34:45","ip":"127.0.0.1","method":"POST","status_code":200,"path":"/v1/users/signup","query":null,"body":null,"response":{"trace_id":"users-001","msg":"username has been used"}}
